@@ -73,29 +73,15 @@ body: {
 
 ## Video 📺
 
-<p align="center">
-  <img src="assets/make_http_request_in_blink_without_leaving_buffer.gif" alt="make_http_request_in_blink_without_leaving_buffer-video" width="100%">
-</p>
 
---- 
+<!-- <p align="center"> -->
+<!--   <a href="https://www.youtube.com/watch?v=jBUKpSBhoxI" target="_blank"> -->
+<!--     <img src="./assets/make_http_request_in_blink_without_leaving_buffer.png" alt="make_http_request_in_blink_without_leaving_buffer" width="100%"> -->
+<!--   </a> -->
+<!-- </p> -->
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=jBUKpSBhoxI" target="_blank">
-    <img src="./assets/make_http_request_in_blink_without_leaving_buffer.png" alt="make_http_request_in_blink_without_leaving_buffer" width="100%">
-  </a>
-</p>
-
----
 
 [![Watch the video](./assets/make_http_request_in_blink_without_leaving_buffer.png)](https://www.youtube.com/watch?v=jBUKpSBhoxI)
-
-
-
-
-
-or in 
-
-- **YouTube**: [https://www.youtube.com/watch?v=jBUKpSBhoxI](https://www.youtube.com/watch?v=jBUKpSBhoxI) 
 
 ---
 
